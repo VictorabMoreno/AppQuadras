@@ -1,0 +1,67 @@
+[
+    {
+      "id": 1,
+      "name": "Quadra do Parque",
+      "location": "São Paulo, SP",
+      "description": "Uma ótima quadra para praticar esportes ao ar livre, com excelente iluminação e piso de qualidade.",
+      "image": "./images.jfif",
+      
+      "price_per_hour": 100,
+      "available_days": [
+        "Monday",
+        "Wednesday",
+        "Friday",
+        "Saturday"
+      ],
+      "available_hours": [
+        "08:00 - 09:00",
+        "09:00 - 10:00",
+        "10:00 - 11:00",
+        "11:00 - 12:00"
+      ],
+      "reviews": [
+        {
+          "user": "João Silva",
+          "rating": 5,
+          "comment": "Quadra excelente, bem localizada e com ótimo preço!"
+        },
+        {
+          "user": "Maria Oliveira",
+          "rating": 4,
+          "comment": "Gostei bastante, mas o estacionamento poderia ser maior."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Quadra Central",
+      "location": "Rio de Janeiro, RJ",
+      "description": "Quadra de fácil acesso, perfeita para partidas de futebol e basquete. Conta com vestiários e lanchonete.",
+      "image": "./images.jfif",
+      "price_per_hour": 150,
+      "available_days": [
+        "Tuesday",
+        "Thursday",
+        "Sunday"
+      ],
+      "available_hours": [
+        "14:00 - 15:00",
+        "15:00 - 16:00",
+        "16:00 - 17:00",
+        "17:00 - 18:00"
+      ],
+      "reviews": [
+        {
+          "user": "Carlos Souza",
+          "rating": 4,
+          "comment": "Ótima quadra, mas poderia ter mais opções de horários disponíveis."
+        },
+        {
+          "user": "Ana Paula",
+          "rating": 5,
+          "comment": "Perfeita para jogos de fim de semana com os amigos!"
+        }
+      ]
+    }
+  ]
+  
